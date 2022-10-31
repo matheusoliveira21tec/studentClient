@@ -24,4 +24,5 @@
 ## Comentario geral
 - Esse foi meu primeiro contato com o framework Vue.js, estou ambientado com o react, creio que a curva de aprendizagem de um para o outro seja tranquila. Fico em duvida se utilizei o framework da melhor maneira possivel, mas foi dessa forma que encontrei exemplos.
 
-
+## Link Apresentação
+[Apresentação](https://www.loom.com/share/df6a0b447f904780afa032fbfc1d5f8f)
