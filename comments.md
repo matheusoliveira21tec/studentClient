@@ -21,6 +21,7 @@
 - utilizacao do bootstrap para front end
 - criacao de tela e sistema de login, utilizando validacao jwt e bcrypt
 - cache nas requiseções
+- testes unitarios
 ## Comentario geral
 - Esse foi meu primeiro contato com o framework Vue.js, estou ambientado com o react, creio que a curva de aprendizagem de um para o outro seja tranquila. Fico em duvida se utilizei o framework da melhor maneira possivel, mas foi dessa forma que encontrei exemplos.
 
